@@ -43,3 +43,5 @@ retail-sql-data-pipeline/
 ├── .gitignore                   # Ignores raw CSV files and local environment artifacts
 └── README.md                    # Project documentation
 ```
+
+- **Tools:** PostgreSQL, pgAdmin, Git, GitHub
